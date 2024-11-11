@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @NostroGuardian
-- 👀 I’m interested in Front-end & Back-end WEB developing and Ethical Hacking
-- 🌱 I’m currently learning Node.js for back-end developing
-- 💞️ I’m looking to collaborate on web developing
-- 📫 How to reach me nostrodevelopment@yandex.ru
+- 👀 I’m interested in Front-end & Back-end developing and Ethical Hacking
