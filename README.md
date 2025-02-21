@@ -4,7 +4,7 @@ Hi 👋 My name is Ivan Nesterov
 Front-end Development Engineer
 ------------------------------
 
-I am 24 years old and have been working as a frontend developer for a year. I adhere to the principles of SOLID, KISS, DRY and YAGNI. In my free time, I study technology, play sports and music.
+I am 25 years old and have been working as a frontend developer for a year. I adhere to the principles of SOLID, KISS, DRY and YAGNI. In my free time, I study technology, play sports and music.
 
 * 📃  My resume: https://career.habr.com/ivan\_nesterov
 * 🌍  I'm based in Moscow
