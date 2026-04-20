@@ -11,7 +11,7 @@ I am 26 years old and have been working as a frontend developer for a year. I ad
 * ✉️  You can contact me at [ivan.nesterov.web@yandex.ru](mailto:ivan.nesterov.web@yandex.ru)
 * ⚡  I have a specialized education in the specialty
 
-# 💻 Tech Stack:
+#№ Tech Stack:
 
 <div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
